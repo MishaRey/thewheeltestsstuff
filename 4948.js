@@ -1633,7 +1633,7 @@
                     staticClass: "text"
                 }, [e._v("ERROR!")]), e._v(" "), i("h3", {
                     staticClass: "subtext"
-                }, [e._v("\n        This pre-release game can only be joined from the url in your press packet (not jackbox.tv).\n    ")]), e._v(" "), i("div", {
+                }, [e._v("\n        Похоже, что это не мод от TDoT, скорее всего тебе нужно не на этот сайт, а на https://jackbox.ru/\n    ")]), e._v(" "), i("div", {
                     staticClass: "actions"
                 }, [i("button", {
                     on: {
