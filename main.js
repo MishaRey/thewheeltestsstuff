@@ -3673,6 +3673,13 @@
                             return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/fibbage")]).then(n.bind(n, 21304))
                         }))
                     },{
+                        name: "Бредак 2",
+                        app: "marionette",
+                        tag: "fibbage2",
+                        importFn: () => r(void 0, void 0, void 0, (function*() {
+                            return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/fibbage2")]).then(n.bind(n, 21304))
+                        }))
+                    },{
                         name: "Ухосёр",
                         app: "marionette",
                         tag: "earwax",
