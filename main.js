@@ -3418,33 +3418,6 @@
                         c((r = r.apply(e, t || [])).next())
                     }))
                 };
-            70236: (e, t, n) => {
-                "use strict";
-                n.d(t, {
-                    c: () => a
-                });
-                var r = n(2720),
-                    i = n(89768);
-                class a {
-                    constructor() {
-                        try {
-                            window.dataLayer = window.dataLayer || [], this.gtag = function() {
-                                window.dataLayer.push(arguments)
-                            }, this.gtag("js", new Date), this.gtag("config", r.v.analytics.trackingId, {
-                                sample_rate: r.v.analytics.sampleRate
-                            })
-                        } catch (e) {
-                            console.error("[Analytics] Error connecting to Google Tags", e)
-                        }
-                    }
-                }, {
-                    path: "/konami",
-                    redirect: () => (f.K.shared.set("debug-enabled", "true"), (0, x.c)("+30 Lives. Production build debugging enabled for this device/browser."), "/")
-                }, {
-                    path: "/*",
-                    redirect: "/"
-                }]
-            });
             n(77823), i().prototype.$analytics = l.c.shared, i().prototype.$debug = u.W.shared, i().prototype.$storage = f.K.shared, i().use(o()), i().use(c()), i().use(p._), i().use(v.M), i().use(h.S), i().use(g.L), i().use(m.M), i().use(b.p), i().use(y);
             const S = new (o());
             new (i())({
