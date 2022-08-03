@@ -3418,6 +3418,41 @@
                         c((r = r.apply(e, t || [])).next())
                     }))
                 };
+            const C = new (c())({
+                routes: [{
+                    path: "/",
+                    component: () => E(void 0, void 0, void 0, (function* () {
+                        return Promise.all([n.e(2529), n.e(5853), n.e(4948)]).then(n.bind(n, 14948))
+                    }))
+                }, {
+                    path: "/:roomCode([A-Za-z]{4})",
+                    component: () => E(void 0, void 0, void 0, (function* () {
+                        return Promise.all([n.e(2529), n.e(5853), n.e(4948)]).then(n.bind(n, 14948))
+                    }))
+                }, {
+                    path: "/moderation",
+                    component: () => E(void 0, void 0, void 0, (function* () {
+                        return Promise.all([n.e(5853), n.e(2530), n.e(2265)]).then(n.bind(n, 52265))
+                    }))
+                }, {
+                    path: "/moderator",
+                    redirect: "/moderation"
+                }, {
+                    path: "/moderate",
+                    redirect: "/moderation"
+                }, {
+                    path: "/localstorage",
+                    beforeEnter() {
+                        new k
+                    }
+                }, {
+                    path: "/konami",
+                    redirect: () => (f.K.shared.set("debug-enabled", "true"), (0, x.c)("+30 Lives. Production build debugging enabled for this device/browser."), "/")
+                }, {
+                    path: "/*",
+                    redirect: "/"
+                }]
+            });
             n(77823), i().prototype.$analytics = l.c.shared, i().prototype.$debug = u.W.shared, i().prototype.$storage = f.K.shared, i().use(o()), i().use(c()), i().use(p._), i().use(v.M), i().use(h.S), i().use(g.L), i().use(m.M), i().use(b.p), i().use(y);
             const S = new (o());
             new (i())({
@@ -5460,4 +5495,4 @@
     var u = l.O(void 0, [9023], (() => l(61966)));
     u = l.O(u)
 })();
-//# sourceMappingURL=sourcemaps/main.c6470b53c02689ac3a08.js.map
+//# sourceMappingURL=sourcemaps/main.87609c1fd5f67b0f21e2.js.map
