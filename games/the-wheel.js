@@ -846,8 +846,8 @@
                         PLACEHOLDER: "Переиграйте меня"
                     },
                     MATCHING: {
-                        BANNER: "БЕТОНОМЕШАЛКА",
-                        CORRECT: "СОПОСТАВЬ",
+                        BANNER: "СТРАННАЯ ЛЮБОВЬ 2",
+                        CORRECT: "УГУ",
                         FROZEN: "НЕПРАВИЛЬНО"
                     },
                     NUMERIC: {
@@ -871,7 +871,7 @@
                         ANSWER_BANNER: "ВЫ ЗАБАНЕНЫ!",
                         MAIN_BANNER: "КРУТИ КОЛЕСО!",
                         RAINBOW_BANNER: "РАДУЖНОЕ КОЛЕСО",
-                        WIN_BANNER: "ЧТОБЫ ВЫИГРАТЬ"
+                        WIN_BANNER: "КРУТИ!"
                     },
                     TYPING: {
                         OBJECTIVE_BANNER: "А давайте отгадайте...",
@@ -1150,7 +1150,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "SUBMIT",
+                        "text-key": "ПОДВЕРДИТЬ",
                         disabled: !t.canSubmit,
                         theme: "submit"
                     },
@@ -3996,7 +3996,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "SUBMIT",
+                        "text-key": "ПОДВЕРДИТЬ",
                         disabled: !t.hasChanged,
                         theme: "submit"
                     },
@@ -6011,12 +6011,12 @@
                         if (this.isTap(e)) return void this.onTap(t);
                         if (s < -10) return this.cancelSpin(s, .25), void this.$emit("statusChange", {
                             type: "incorrect",
-                            bannerText: "WRONG DIRECTION",
+                            bannerText: "НЕ ТУДА КРУТИ",
                             timeout: 1e3
                         });
                         if (s < 150) return this.cancelSpin(s, .75), void this.$emit("statusChange", {
                             type: "incorrect",
-                            bannerText: "SPIN FASTER",
+                            bannerText: "КРУТИ БЫСТРЕЕ",
                             timeout: 1e3
                         });
                         const n = ((t, s) => {
@@ -6025,7 +6025,7 @@
                         })(s, e);
                         if (n < .1) return this.cancelSpin(s, .75), void this.$emit("statusChange", {
                             type: "incorrect",
-                            bannerText: "SPIN FASTER",
+                            bannerText: "КРУТИ БЫСТРЕЕ",
                             timeout: 1e3
                         });
                         this.executeSpin(s, n)
@@ -6144,7 +6144,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "SUBMIT",
+                        "text-key": "ПОДВЕРДИТЬ",
                         disabled: t.isSending,
                         theme: "submit"
                     },
