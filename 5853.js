@@ -8,103 +8,102 @@
             const o = {
                 en: {
                     ACTION: {
-                        BACK: "Back",
-                        CANCEL: "Cancel",
-                        CLOSE: "Close",
-                        CREATE: "Create",
-                        DELETE: "Delete",
-                        DONE: "Done",
-                        EDIT: "Edit",
+                        BACK: "Назад",
+                        CANCEL: "Отмена",
+                        CLOSE: "Закрыть",
+                        CREATE: "Создать",
+                        DELETE: "Удалить",
+                        DONE: "Готово",
+                        EDIT: "Изменить",
                         OK: "OK",
-                        NO: "No",
-                        PLAY: "Play",
-                        PUBLISH: "Publish",
-                        RESET: "Reset",
-                        SUBMIT: "Submit",
-                        TRY_AGAIN: "Try Again",
-                        UNDO: "Undo",
-                        YES: "Yes"
+                        NO: "Не",
+                        PLAY: "Играть",
+                        PUBLISH: "Опубликовать",
+                        RESET: "Заново",
+                        SUBMIT: "Отправить",
+                        TRY_AGAIN: "Ещё раз",
+                        UNDO: "Отмена",
+                        YES: "Да"
                     },
                     ALT: {
                         UGC: {
-                            VISIBILITY_CONTROLLER_OFF: "prompts hidden on players’ devices",
-                            VISIBILITY_CONTROLLER_ON: "prompts shown on players’ devices",
+                            VISIBILITY_CONTROLLER_OFF: "prompts hidden on players' devices",
+                            VISIBILITY_CONTROLLER_ON: "prompts shown on players' devices",
                             VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
                             VISIBILITY_SCREEN_ON: "prompts shown on game screen"
                         }
                     },
                     ENTRY: {
-                        PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-                        ROOM_CODE: "ROOM CODE",
-                        ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+                        PASSWORD_PLACEHOLDER: "ВВЕДИТЕ 5-ЦИФЕРНЫЙ ПАРОЛЬ",
+                        ROOM_CODE: "КОД КОМНАТЫ",
+                        ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ 4-БУКВЕННЫЙ КОД"
                     },
                     ERROR: {
-                        DISCONNECTED: "You have been disconnected.",
-                        DRAWING_NOTHING: "You have to draw something!",
-                        PLAYER_KICKED: "You’ve been kicked.",
-                        ROOM_DESTROYED: "Thanks for playing!",
-                        ROOM_DISCONNECTED: "Disconnected",
-                        ROOM_NOT_FOUND: "Room not found",
-                        TEXT_NAUGHTY: "I’m afraid you can’t write that. Please be respectful of other players.",
-                        TEXT_NOTHING: "You can’t enter nothing!",
-                        TITLE: "Error"
+                        DISCONNECTED: "Вы были отключены.",
+DRAWING_NOTHING: "Вы должны что-то нарисовать!",
+ROOM_DESTROYED: "Спасибо за игру!",
+ROOM_DISCONNECTED: "Отключен",
+ROOM_NOT_FOUND: "Комната не найдена",
+TEXT_NAUGHTY: "Боюсь, вы не можете это написать. Пожалуйста, относитесь с уважением к другим игрокам.",
+TEXT_NOTHING: "Вы не можете ничего вводить!",
+TITLE: "Ошибка"
                     },
                     LOBBY: {
-                        JOINED_COUNT: "x | {count} of {maxPlayers} players joined | {count} of {maxPlayers} players joined",
-                        PLAYERS_NEEDED: "x | {count} player needed to start | {count} players needed to start",
-                        WAITING_FOR_VIP: "Waiting for {name} to start the game",
-                        WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-                        GAME_STARTING: "Game is starting",
-                        BUTTON_START: "Press to Start",
-                        BUTTON_CANCEL: "Press to Cancel"
+                        JOINED_COUNT: "x | {count} из {maxPlayers} игроков присоединилось | {count} из {maxPlayers} игроков присоединилось",
+                        PLAYERS_NEEDED: "x | {count} игроков нужно чтобы начать  | {count} игроков нужно чтобы начать",
+                        WAITING_FOR_VIP: "Ждём пока {name} начнёт игру",
+                        WAITING_FOR_GAMEPAD: "Ждем начала игры",
+                        GAME_STARTING: "Игра начинается",
+                        BUTTON_START: "Нажмите чтобы начать",
+                        BUTTON_CANCEL: "Нажмите чтобы отменить"
                     },
                     POST_GAME: {
-                        GALLERY_LINK: "Visit the Gallery",
-                        PLAY_AGAIN: "Play again?",
-                        BUTTON_SAME_PLAYERS: "Same Players",
-                        BUTTON_NEW_PLAYERS: "New Players"
+                        GALLERY_LINK: "Поделиться ответами",
+                        PLAY_AGAIN: "Ещё раз?",
+                        BUTTON_SAME_PLAYERS: "С этими игроками",
+                        BUTTON_NEW_PLAYERS: "С новыми игроками"
                     },
                     SEPARATOR: {
-                        AND: "AND",
-                        OR: "OR"
+                        AND: "И",
+                        OR: "ИЛИ"
                     },
                     TUTORIAL: {
-                        BUTTON_SKIP: "Skip",
-                        BUTTON_NEXT: "Next",
-                        BUTTON_DONE: "Let’s Go!"
+                        BUTTON_SKIP: "Пропустить",
+                        BUTTON_NEXT: "Дальше",
+                        BUTTON_DONE: "Поехали!"
                     },
                     AUDIENCE: {
                         NAME: "AUDIENCE"
                     },
                     UGC: {
-                        EPISODE_REPORT: "Report Episode",
-                        EPISODE_UNLOAD: "Unload Episode",
-                        EPISODE_VIEW_AUTHOR: "View Author",
-                        EPISODES_LOAD: "Load an episode by id:",
-                        EPISODES_MENU: "Episodes Menu",
-                        EPISODES_SELECT: "Or select an epsiode:",
-                        EPISODES_WARNING: "Warning: user generated content is not rated",
+                        EPISODE_REPORT: "Зарепортить эпизод",
+                        EPISODE_UNLOAD: "Отгрузить эпизод",
+                        EPISODE_VIEW_AUTHOR: "Посмотреть автора",
+                        EPISODES_LOAD: "Загрузить эпизод по ID:",
+                        EPISODES_MENU: "Меню эпизодов",
+                        EPISODES_SELECT: "Или выберите эпизод:",
+                        EPISODES_WARNING: "Внимание: пользовательский контент не оценен",
                         INSTRUCTION: {
-                            CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-                            LOAD: "create or load?",
-                            PUBLISH: "publish your episode",
-                            TITLE: "name your episode",
+                            CREATE_TITLE: "введи имя эпихода и нажми создать",
+                            LOAD: "создать или загрузить?",
+                            PUBLISH: "опубликовать эпизод",
+                            TITLE: "назови эпизод",
                             TOGGLE_VISIBILITY: "tap to show/hide prompts",
                             WRITE: "write your prompts"
                         },
                         WARNING: {
-                            DELETE: "Are you sure you want to delete this episode?",
-                            TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-                            TOS_AGREE: "agree and share"
+                            DELETE: "Вы уверены что хотите удалить эпизод?",
+                            TOS: "Делясь контентом, вы соглашаетесь с нашими [tos]условиями обслуживания[/tos]",
+                            TOS_AGREE: "согласиться и поделиться"
                         },
-                        BACK_TO_EPISODES: "back to episodes",
-                        BACK_TO_MENU: "back to menu",
-                        CREATE_NEW_EPISODE: "create a new episode",
-                        PREVIOUS_EPISODES: "previous episodes",
-                        PROMPT_ADD: "add prompt",
-                        PROMPT_PLACEHOLDER: "enter a prompt",
-                        PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-                        TITLE_PLACEHOLDER: "enter a title"
+                        BACK_TO_EPISODES: "назад к эпизодам",
+                        BACK_TO_MENU: "назад в меню",
+                        CREATE_NEW_EPISODE: "создать новый эпизод",
+                        PREVIOUS_EPISODES: "предыдущие эпизоды",
+                        PROMPT_ADD: "добавить вопрос",
+                        PROMPT_PLACEHOLDER: "введите вопрос",
+                        PROMPTS_COUNT_HIDDEN: "({count} спрятано)",
+                        TITLE_PLACEHOLDER: "введите название"
                     }
                 },
                 fr: {
