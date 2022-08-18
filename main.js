@@ -3515,7 +3515,7 @@
                     url: ""
                 },
                 twitch: {
-                    clientId: ""
+                    clientId: "f0gj357hnokd3j6t3icreh2pw2tdtx"
                 },
                 segment: {
                     writeKey: ""
