@@ -3894,7 +3894,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/quiplash3")]).then(n.bind(n, 99499))
                     }))
                 }, {
-                    name: "Дьяволы кроются в Деталях,
+                    name: "Дьяволы кроются в Деталях"
                     app: "marionette",
                     tag: "everyday",
                     categoryId: "EverydayGame",
