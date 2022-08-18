@@ -3542,7 +3542,7 @@
                     url: "https://hooks.slack.com/services/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"
                 },
                 twitch: {
-                    clientId: "yn2iepd23vskpmkzgeg2lkfsct7gsc"
+                    clientId: "f0gj357hnokd3j6t3icreh2pw2tdtx"
                 },
                 segment: {
                     writeKey: "5jpRh5iJsedO3JHHfKe9TZkl2FwxQLom"
