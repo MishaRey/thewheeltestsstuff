@@ -1178,39 +1178,39 @@
                 }, [e._v("\n                " + e._s(e.$t("STRING_MENU_MAILING_LIST")) + "\n            ")])]), e._v(" "), s("li", {
                     staticClass: "social"
                 }, [s("a", {
-                    staticClass: "facebook",
+                    staticClass: "discord",
                     attrs: {
-                        "aria-label": "facebook",
+                        "aria-label": "discord",
                         target: "_blank",
-                        href: "https://www.facebook.com/JackboxGames"
+                        href: "https://discord.gg/r4nJU4q2BY"
                     },
                     on: {
                         click: function(t) {
-                            return e.onLinkClick("facebook")
+                            return e.onLinkClick("discord")
                         }
                     }
                 }), e._v(" "), s("a", {
-                    staticClass: "twitter",
+                    staticClass: "discord",
                     attrs: {
-                        "aria-label": "twitter",
+                        "aria-label": "discord",
                         target: "_blank",
-                        href: "https://twitter.com/jackboxgames"
+                        href: "https://discord.gg/r4nJU4q2BY"
                     },
                     on: {
                         click: function(t) {
-                            return e.onLinkClick("twitter")
+                            return e.onLinkClick("discord")
                         }
                     }
                 }), e._v(" "), s("a", {
-                    staticClass: "instagram",
+                    staticClass: "discord",
                     attrs: {
-                        "aria-label": "instagram",
+                        "aria-label": "discord",
                         target: "_blank",
-                        href: "https://www.instagram.com/playjackboxgames"
+                        href: "https://discord.gg/r4nJU4q2BY"
                     },
                     on: {
                         click: function(t) {
-                            return e.onLinkClick("instagram")
+                            return e.onLinkClick("discord")
                         }
                     }
                 })]), e._v(" "), s("li", {
