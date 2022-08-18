@@ -159,14 +159,14 @@
                     staticClass: "constrain"
                 }, [s("div", {
                     staticClass: "top-items"
-                }, [s("h3", [e._v("RECENT GAMES")]), e._v(" "), s("button", {
+                }, [s("h3", [e._v("ПРОШЛЫЕ ИГРЫ")]), e._v(" "), s("button", {
                     staticClass: "view-all",
                     on: {
                         click: function(t) {
                             return t.preventDefault(), e.onPastGamesClick.apply(null, arguments)
                         }
                     }
-                }, [e._v("VIEW ALL")])]), e._v(" "), e._l(e.recentGames, (function(e) {
+                }, [e._v("ПОСМОТРЕТЬ ВСЕ")])]), e._v(" "), e._l(e.recentGames, (function(e) {
                     return s("PastGame", {
                         key: e.url,
                         staticClass: "home",
@@ -184,7 +184,7 @@
                             return t.preventDefault(), e.onPastGamesClick.apply(null, arguments)
                         }
                     }
-                }, [e._v("\n                View All Past Games\n            ")]) : e._e()], 2)]) : e._e()], 1)
+                }, [e._v("\n                Посмотреть все предыдущие игры\n            ")]) : e._e()], 2)]) : e._e()], 1)
             };
             i._withStripped = !0;
             var a, o = s(39666),
