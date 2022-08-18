@@ -280,7 +280,7 @@
 }
 
 .nav li.moderator a[data-v-082a7a6a]:active {
-    background-color: #3241ce
+    background-color: #444
 }
 
 .nav li.social a[data-v-082a7a6a] {
@@ -313,7 +313,7 @@
     top: -10px;
     left: auto;
     right: -10px;
-    border: 4px solid #3241ce
+    border: 4px solid #444
 }
 
 @keyframes fade-animation-data-v-082a7a6a {
@@ -2505,7 +2505,7 @@ label .remaining[data-v-2ba6adc4] {
     height: auto;
     padding: 3px 10px 2px;
     margin: 0;
-    background: #3241ce;
+    background: #444;
     font-size: 12px;
     box-shadow: none
 }
