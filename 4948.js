@@ -443,7 +443,7 @@
                     STRING_MENU_HELP: "СПРАВКА",
                     STRING_MENU_TWITCH: "TWITCH",
                     STRING_MENU_LOGOUT: "ВЫЙТИ",
-                    STRING_MENU_MERCH: "ТОВАР",
+                    STRING_MENU_MERCH: "МЕРЧ",
                     STRING_MENU_PAST_GAMES: "ПРОШЛЫЕ ИГРЫ",
                     STRING_MENU_MAILING_LIST: "СПИСОК РАССЫЛКИ",
                     ERROR_UNSUPPORTED_BROWSER: "Эта игра не поддерживается в этом браузере. Просмотр \"?\" или СПРАВКА, чтобы просмотреть список совместимых браузеров.",
@@ -1139,7 +1139,7 @@
                     }
                 }, [e._v("МОДЕРАЦИЯ")])], 1), e._v(" "), s("li", [s("a", {
                     attrs: {
-                        href: "http://help.jackboxgames.com",
+                        href: "http://tdot.space",
                         target: "_blank"
                     },
                     on: {
@@ -1149,7 +1149,7 @@
                     }
                 }, [e._v("\n                " + e._s(e.$t("STRING_MENU_HELP")) + "\n            ")])]), e._v(" "), s("li", [s("a", {
                     attrs: {
-                        href: "https://shop.jackboxgames.com",
+                        href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                         target: "_blank"
                     },
                     on: {
@@ -1167,7 +1167,7 @@
                     staticClass: "indicator"
                 }) : e._e()])]), e._v(" "), s("li", [s("a", {
                     attrs: {
-                        href: "https://jackboxgames.us7.list-manage.com/subscribe?u=a181fa3b606c035e1cee11b76&id=eb7f0081d6",
+                        href: "https://jackmods.ga/assets/email.png",
                         target: "_blank"
                     },
                     on: {
