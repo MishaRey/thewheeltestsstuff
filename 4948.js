@@ -1423,7 +1423,7 @@
                     },
                     cta() {
                         var e, t;
-                        return (null === (t = null === (e = this.config) || void 0 === e ? void 0 : e.shopItems) || void 0 === t ? void 0 : t.length) ? "VIEW GAME & SHOP" : "VIEW THIS GAME"
+                        return (null === (t = null === (e = this.config) || void 0 === e ? void 0 : e.shopItems) || void 0 === t ? void 0 : t.length) ? "ПОСМОТРЕТЬ ИГРУ И МАГАЗИН" : "ПОСМОТРЕТЬ ИГРУ"
                     }
                 },
                 watch: {
