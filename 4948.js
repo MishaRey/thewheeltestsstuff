@@ -467,7 +467,7 @@
                     STRING_ERROR_INCORRECT_PASSWORD: "Неверный пароль",
                     STRING_ERROR_GENERIC: "Ошибка подключения к этой игре",
                     STRING_ERROR_CONNECTION: "Ошибка подключения",
-                    ERROR_FILTER_NAME: "В этой игре включены фильтры ненормативной лексики. Пожалуйста, выбери другое имя".
+                    ERROR_FILTER_NAME: "В этой игре включены фильтры ненормативной лексики. Пожалуйста, выбери другое имя."
                 },
                 fr: {
                     STATUS_GAME_FULL: "La salle est pleine",
