@@ -1137,7 +1137,7 @@
                     attrs: {
                         to: "/moderator"
                     }
-                }, [e._v("MODERATOR")])], 1), e._v(" "), s("li", [s("a", {
+                }, [e._v("МОДЕРАЦИЯ")])], 1), e._v(" "), s("li", [s("a", {
                     attrs: {
                         href: "http://help.jackboxgames.com",
                         target: "_blank"
