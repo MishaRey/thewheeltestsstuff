@@ -442,7 +442,7 @@
                     STRING_CANVAS_COMPATIBILITY: "Извините, ваш браузер не поддерживается.",
                     STRING_MENU_HELP: "СПРАВКА",
                     STRING_MENU_TWITCH: "TWITCH",
-                    STRING_MENU_LOGOUT: "ВЫХОД ИЗ СИСТЕМЫ",
+                    STRING_MENU_LOGOUT: "ВЫЙТИ",
                     STRING_MENU_MERCH: "ТОВАР",
                     STRING_MENU_PAST_GAMES: "ПРОШЛЫЕ ИГРЫ",
                     STRING_MENU_MAILING_LIST: "СПИСОК РАССЫЛКИ",
