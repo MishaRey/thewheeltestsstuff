@@ -3582,7 +3582,7 @@
                     c((r = r.apply(e, t || [])).next())
                 }))
             };
-            const i = ["70a0ea54-26dd-429d-9f54-a868a63a8ecc", "8a34f379-00dc-495b-90de-b2be4382baea", "d1bfbe04-1a14-4a6a-bc61-52d005bf3ec5", "014d3763-bbad-49a7-8743-a7654571e2f1", "17f236c2-c3b8-40e6-bca6-6268fcdcf2f2"],
+            const i = ["BHbW2Ug6fyo2tKpHX6bS", "2mxdl6sfowcxflxrm9ai9udc", "d0cqgggibabp4x6r4ysc1v5o", "0kgltw3xogp3c8fr14hze1cw", "3Mcei9GjIFpBUGwhQRtHRyGQpQUYoJfy","tYOBHxxuHbhpGSIptPVPaVnDXGmKHIST","6b0eba86a4a303019c1e0f87f6e3dc53","6b0eba86a4a303019c1e0f87f6e3dc53","CCJhi8No2mKeADbC474Zn81Vstm7WyBP","c531ca944bf9762cd63a032d87cb96e7","322cd918bbf2ac6af0c05b6f3b8b3ce8","46a70386-d9a9-11e5-b5d2-0a1d41d68578","c01f66be-745d-4173-8dac-c60395b2437a","87fd7112-e835-4794-88bc-dc6e3630d640","ba051223-0c2e-4420-8f90-1356d94d6284","75a6de72-ea54-e1cb-28e1-aab354704d45","2c7351f4-953c-4ca3-88f3-7ddf9a973bd1","c9ae7765-ee0a-a0f6-492c-90548b1d52fb","130f9f92-6fc4-4cdb-815e-0f65fdd2904b","6a899966-4120-430c-9ae2-95f90767fa48","5983d1cf-bf20-5def-7224-3b6b07fa0a06","c72415bb-762a-df24-10f1-62dd419342a2","25bcaae6-cada-4149-9947-5ef63f2aa2a4","70147cd2-65a0-43af-b7e4-2ebb9997544e","3c424bfe-1208-4c05-a83d-6a1888b8477d","ddebfee6-5bc0-4325-a2d5-c50856802f9f","9364f2b4-e8e2-46ab-a8ad-71e0fce9e21b","fe8be043-af2e-401f-8862-37fb386dfda7","d4eab799-37ab-4649-b599-548442d081ce","ebdfeddb-792d-4465-801c-241c307875e7","bc18436c1fc7846aa47831d83fd84969","a65ba355-be90-4498-a0e9-37ae7841fcae","37c1627d-4b01-4f45-b95f-80197cd4403c","d8e40272-9ffc-4987-bbee-3b63f014d44a","407e19f7-6276-476f-bcc1-af64f8194fd7","fdac94cc-cade-41ff-b4aa-e52e29418e8a","6cc5d9ae9c29bfba45238719329e1d23","4b0d3b57-a0cb-406a-a1fe-a652ce8592d4","3629240b-ecb2-4b33-90c3-56831bf59b04","d819c335-09b3-42c1-9331-5bf64e17145d","b011514c-e170-4106-946d-c01592fc1069","d10ff733-a146-43f5-836b-19f9011fdc7f","626eef10-80cd-4cce-b6fc-8552f63ff129","WqtOjtE5JDSlp2APnbER9nqM5DEHjin7","70a0ea54-26dd-429d-9f54-a868a63a8ecc", "8a34f379-00dc-495b-90de-b2be4382baea", "d1bfbe04-1a14-4a6a-bc61-52d005bf3ec5", "014d3763-bbad-49a7-8743-a7654571e2f1", "17f236c2-c3b8-40e6-bca6-6268fcdcf2f2"],
                 a = [{
                     name: "Prototype",
                     app: "vue",
@@ -3605,7 +3605,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/house-of-jackbox")]).then(n.bind(n, 79004))
                     }))
                 }, {
-                    name: "Quiplash 2 International",
+                    name: "Смехлыст 2 Интернациональный",
                     app: "marionette",
                     tag: "quiplash2-international",
                     categoryId: "quiplash2-internationalGame",
@@ -3613,14 +3613,14 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/quiplash2-international")]).then(n.bind(n, 43141))
                     }))
                 }, {
-                    name: "Guesspionage Crowdplay",
+                    name: "Шпионалитика",
                     app: "marionette",
                     tag: "guesspionage-crowdplay",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/guesspionage-crowdplay")]).then(n.bind(n, 50310))
                     }))
                 }, {
-                    name: "Drawful 2",
+                    name: "Рисыч 2",
                     app: "marionette",
                     tag: "drawful2",
                     categoryId: "DrawfulGame",
@@ -3629,7 +3629,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/drawful2")]).then(n.bind(n, 17411))
                     }))
                 }, {
-                    name: "Drawful 2",
+                    name: "Рисыч 2",
                     app: "marionette",
                     tag: "drawful2international",
                     features: ["moderation"],
@@ -3644,84 +3644,84 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/acquisitions-inc")]).then(n.bind(n, 44489))
                     }))
                 }, {
-                    name: "You Don't Know Jack 2015",
+                    name: "Ты Же Ниджека Не Знаешь 2015",
                     app: "marionette",
                     tag: "ydkj2015",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/ydkj2015")]).then(n.bind(n, 35519))
                     }))
                 }, {
-                    name: "Drawful",
+                    name: "Рисыч",
                     app: "marionette",
                     tag: "drawful",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/drawful")]).then(n.bind(n, 81099))
                     }))
                 }, {
-                    name: "Word Spud",
+                    name: "Корнеслов",
                     app: "marionette",
                     tag: "wordspud",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/wordspud")]).then(n.bind(n, 50977))
                     }))
                 }, {
-                    name: "Lie Swatter",
+                    name: "Врухобойка",
                     app: "marionette",
                     tag: "lieswatter",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/lieswatter")]).then(n.bind(n, 93119))
                     }))
                 }, {
-                    name: "Fibbage",
+                    name: "Бредак",
                     app: "marionette",
                     tag: "fibbage",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/fibbage")]).then(n.bind(n, 21304))
                     }))
                 }, {
-                    name: "Fibbage 2",
+                    name: "Бредак 2",
                     app: "marionette",
                     tag: "fibbage2",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/fibbage2")]).then(n.bind(n, 91791))
                     }))
                 }, {
-                    name: "Earwax",
+                    name: "Ухосёр",
                     app: "marionette",
                     tag: "earwax",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/earwax")]).then(n.bind(n, 36024))
                     }))
                 }, {
-                    name: "Bidiots",
+                    name: "Дурторг",
                     app: "marionette",
                     tag: "auction",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/auction")]).then(n.bind(n, 41571))
                     }))
                 }, {
-                    name: "Bomb Corp",
+                    name: "Бомб Корп.",
                     app: "marionette",
                     tag: "bombintern",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/bombintern")]).then(n.bind(n, 63191))
                     }))
                 }, {
-                    name: "Quiplash",
+                    name: "Смехлыст",
                     app: "marionette",
                     tag: "quiplash",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/quiplash")]).then(n.bind(n, 64304))
                     }))
                 }, {
-                    name: "Fakin' It",
+                    name: "СимулнТЫ",
                     app: "marionette",
                     tag: "fakinit",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/fakinit")]).then(n.bind(n, 22987))
                     }))
                 }, {
-                    name: "Tee K.O.",
+                    name: "Футбол K.O.",
                     app: "marionette",
                     tag: "awshirt",
                     categoryId: "TeeKOGame",
@@ -3730,7 +3730,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(382), n.e(972), n.e("games/awshirt")]).then(n.bind(n, 79039))
                     }))
                 }, {
-                    name: "Quiplash 2",
+                    name: "Смехлыст 2",
                     app: "marionette",
                     tag: "quiplash2",
                     categoryId: "Quiplash2Game",
@@ -3738,7 +3738,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/quiplash2")]).then(n.bind(n, 16190))
                     }))
                 }, {
-                    name: "Trivia Murder Party",
+                    name: "Викторина Смертельной Вечеринки",
                     app: "marionette",
                     tag: "triviadeath",
                     categoryId: "TriviaDeathResults",
@@ -3746,21 +3746,21 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/triviadeath")]).then(n.bind(n, 77342))
                     }))
                 }, {
-                    name: "Guesspionage",
+                    name: "Шпионалитика",
                     app: "marionette",
                     tag: "pollposition",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/pollposition")]).then(n.bind(n, 57879))
                     }))
                 }, {
-                    name: "Fibbage 3",
+                    name: "Бредак 3",
                     app: "marionette",
                     tag: "fibbage3",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/fibbage3")]).then(n.bind(n, 76516))
                     }))
                 }, {
-                    name: "Survive the Internet",
+                    name: "Выжить в Интернете",
                     app: "marionette",
                     tag: "survivetheinternet",
                     categoryId: "STIGame",
@@ -3768,7 +3768,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/survivetheinternet")]).then(n.bind(n, 73315))
                     }))
                 }, {
-                    name: "Monster Seeking Monster",
+                    name: "Монстр ищет монстра",
                     app: "marionette",
                     tag: "monstermingle",
                     categoryId: "MonsterMingleGame",
@@ -3776,7 +3776,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/monstermingle")]).then(n.bind(n, 54750))
                     }))
                 }, {
-                    name: "Bracketeering",
+                    name: "Сетьстязание",
                     app: "marionette",
                     tag: "bracketeering",
                     categoryId: "BRKGame",
@@ -3784,7 +3784,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/bracketeering")]).then(n.bind(n, 10335))
                     }))
                 }, {
-                    name: "Civic Doodle",
+                    name: "Гражданский Штрих",
                     app: "marionette",
                     tag: "overdrawn",
                     categoryId: "OverdrawnGame",
@@ -3793,7 +3793,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/overdrawn")]).then(n.bind(n, 4342))
                     }))
                 }, {
-                    name: "You Don't Know Jack 2018",
+                    name: "Ты Же Ниджека Не Знаешь 2018",
                     app: "marionette",
                     tag: "ydkj2018",
                     categoryId: "YDKJ2018Game",
@@ -3801,7 +3801,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/ydkj2018")]).then(n.bind(n, 94239))
                     }))
                 }, {
-                    name: "Split the Room",
+                    name: "Раздели комнату",
                     app: "marionette",
                     tag: "splittheroom",
                     categoryId: "SplitTheRoomGame",
@@ -3809,7 +3809,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/splittheroom")]).then(n.bind(n, 14433))
                     }))
                 }, {
-                    name: "Mad Verse City",
+                    name: "Город Безумных Рифм",
                     app: "marionette",
                     tag: "rapbattle",
                     categoryId: "RapBattleGame",
@@ -3817,7 +3817,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/rapbattle")]).then(n.bind(n, 94059))
                     }))
                 }, {
-                    name: "Zeeple Dome",
+                    name: "Купол Зипол",
                     app: "marionette",
                     tag: "slingshoot",
                     categoryId: "SlingShootGame",
@@ -3825,7 +3825,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/slingshoot")]).then(n.bind(n, 41919))
                     }))
                 }, {
-                    name: "Patently Stupid",
+                    name: "Патентциально Тупо",
                     app: "marionette",
                     tag: "patentlystupid",
                     categoryId: "PatentlyStupidGame",
@@ -3834,7 +3834,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/patentlystupid")]).then(n.bind(n, 41073))
                     }))
                 }, {
-                    name: "Trivia Murder Party 2",
+                    name: "Викторина Смертельной Вечеринки 2",
                     app: "marionette",
                     tag: "triviadeath2",
                     categoryId: "TriviaDeath2Game",
@@ -3842,7 +3842,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/triviadeath2")]).then(n.bind(n, 20188))
                     }))
                 }, {
-                    name: "Role Models",
+                    name: "Анализ Роли",
                     app: "marionette",
                     tag: "rolemodels",
                     categoryId: "RoleModelsGame",
@@ -3852,7 +3852,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/rolemodels")]).then(n.bind(n, 24970))
                     }))
                 }, {
-                    name: "Joke Boat",
+                    name: "Корабль Шуток",
                     app: "marionette",
                     tag: "jokeboat",
                     categoryId: "JokeboatGame",
@@ -3860,7 +3860,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/jokeboat")]).then(n.bind(n, 50946))
                     }))
                 }, {
-                    name: "Dictionarium",
+                    name: "Словариум",
                     app: "marionette",
                     tag: "ridictionary",
                     categoryId: "RidictionaryGame",
@@ -3868,7 +3868,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/ridictionary")]).then(n.bind(n, 85993))
                     }))
                 }, {
-                    name: "Push the Button",
+                    name: "Жми на Кнопку",
                     app: "marionette",
                     tag: "pushthebutton",
                     categoryId: "PushTheButtonGame",
@@ -3876,7 +3876,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/pushthebutton")]).then(n.bind(n, 56716))
                     }))
                 }, {
-                    name: "Talking Points",
+                    name: "Опорные Точки",
                     app: "marionette",
                     tag: "jackbox-talks",
                     features: ["camera", "moderation"],
@@ -3885,7 +3885,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/jackbox-talks")]).then(n.bind(n, 54677))
                     }))
                 }, {
-                    name: "Quiplash 3",
+                    name: "Смехлыст 3",
                     app: "marionette",
                     tag: "quiplash3",
                     features: ["moderation"],
@@ -3894,7 +3894,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/quiplash3")]).then(n.bind(n, 99499))
                     }))
                 }, {
-                    name: "The Devils and the Details",
+                    name: "Дьяволы кроются в Деталях,
                     app: "marionette",
                     tag: "everyday",
                     categoryId: "EverydayGame",
@@ -3903,7 +3903,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(1978), n.e(38), n.e(972), n.e(4442), n.e(4340), n.e("games/everyday")]).then(n.bind(n, 7851))
                     }))
                 }, {
-                    name: "Champ'd Up",
+                    name: "Чемпионарт",
                     app: "marionette",
                     tag: "worldchamps",
                     features: ["moderation"],
@@ -3913,7 +3913,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(972), n.e(4442), n.e(4340), n.e("games/worldchamps")]).then(n.bind(n, 35783))
                     }))
                 }, {
-                    name: "Blather 'Round",
+                    name: "Кругом Слова",
                     app: "marionette",
                     tag: "blanky-blank",
                     categoryId: "BlankyBlankGame",
@@ -3921,7 +3921,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(1916), n.e(972), n.e(4442), n.e(4340), n.e("games/blanky-blank")]).then(n.bind(n, 47642))
                     }))
                 }, {
-                    name: "Job Job",
+                    name: "Делай Дело Job",
                     app: "vue",
                     tag: "apply-yourself",
                     features: ["moderation"],
@@ -3931,7 +3931,7 @@
                         return Promise.all([n.e(9980), n.e(5853), n.e("games/apply-yourself")]).then(n.bind(n, 24872))
                     }))
                 }, {
-                    name: "The Wheel of Enormous Proportions",
+                    name: "Колесо Ненормальных Пропорций",
                     app: "vue",
                     tag: "the-wheel",
                     categoryId: "TheWheelGame",
@@ -3939,7 +3939,7 @@
                         return Promise.all([n.e(7416), n.e(1978), n.e(8990), n.e(5853), n.e(572), n.e("games/the-wheel")]).then(n.bind(n, 21057))
                     }))
                 }, {
-                    name: "The Poll Mine",
+                    name: "Шахты Тайн",
                     app: "vue",
                     tag: "survey-bomb",
                     categoryId: "SurveyBombGame",
@@ -3947,7 +3947,7 @@
                         return Promise.all([n.e(5853), n.e("games/survey-bomb")]).then(n.bind(n, 81988))
                     }))
                 }, {
-                    name: "Weapons Drawn",
+                    name: "Imposters Drawn",
                     app: "vue",
                     tag: "murder-detectives",
                     features: ["moderation"],
@@ -3956,7 +3956,7 @@
                         return Promise.all([n.e(9623), n.e(5853), n.e(2530), n.e(4396), n.e("games/murder-detectives")]).then(n.bind(n, 28274))
                     }))
                 }, {
-                    name: "Drawful Animate",
+                    name: "Рисыч: Анимируй",
                     app: "vue",
                     tag: "drawful-animate",
                     features: ["moderation"],
@@ -3965,7 +3965,7 @@
                         return Promise.all([n.e(9623), n.e(7611), n.e(5853), n.e(2530), n.e(4396), n.e("games/drawful-animate")]).then(n.bind(n, 66333))
                     }))
                 }, {
-                    name: "Quiplash 3",
+                    name: "Смехлыст 3",
                     app: "vue",
                     tag: "quiplash3-tjsp",
                     features: ["moderation"],
@@ -3973,7 +3973,7 @@
                         return Promise.all([n.e(7416), n.e(5853), n.e(1512), n.e("games/quiplash3-tjsp")]).then(n.bind(n, 64785))
                     }))
                 }, {
-                    name: "Tee K.O.",
+                    name: "Футбол K.O.",
                     app: "vue",
                     tag: "awshirt-tjsp",
                     features: ["moderation"],
@@ -3982,7 +3982,15 @@
                         return Promise.all([n.e(2529), n.e(5853), n.e(572), n.e("games/awshirt-tjsp")]).then(n.bind(n, 12659))
                     }))
                 }, {
-                    name: "Trivia Murder Party 2",
+                    name: "Колесо Ненормального Троллинга",
+                    app: "vue",
+                    tag: "troll-wheel",
+                    categoryId: "TheWheelGame",
+                    importFn: () => r(void 0, void 0, void 0, (function* () {
+                        return Promise.all([n.e(7416), n.e(1978), n.e(8990), n.e(5853), n.e(572), n.e("games/the-wheel")]).then(n.bind(n, 21057))
+                    }))
+                },{
+                    name: "Викторина Смертельной Вечеринки 2",
                     app: "vue",
                     tag: "triviadeath2-tjsp",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
