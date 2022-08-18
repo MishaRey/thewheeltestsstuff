@@ -431,7 +431,7 @@
                     STRING_ERROR_WEBSOCKETS_REQUIRED: "Веб-сайты не поддерживаются в вашем браузере.",
                     STRING_ERROR_INVALID_APP_ID: "Недопустимый идентификатор приложения для room: ",
                     STRING_SETTINGS: "Настройки",
-                    STRING_DYSLEXIC_FONT: "Шрифт с дислексией",
+                    STRING_DYSLEXIC_FONT: "Шрифт для людей с дислексией",
                     STRING_LARGE_FONT: "Крупный шрифт",
                     LANGUAGE: "Язык",
                     LOGIN: "Логин",
