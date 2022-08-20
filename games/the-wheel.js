@@ -1766,8 +1766,8 @@
                     directives: [{
                         name: "t",
                         rawName: "v-t",
-                        value: "SUBMIT",
-                        expression: "'SUBMIT'"
+                        value: "ПУКНУТЬ",
+                        expression: "'ПУКНУТЬ'"
                     }],
                     staticClass: "sr"
                 })])
