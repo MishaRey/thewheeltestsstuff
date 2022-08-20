@@ -3931,7 +3931,7 @@
                         return Promise.all([n.e(9980), n.e(5853), n.e("games/apply-yourself")]).then(n.bind(n, 24872))
                     }))
                 }, {
-                    name: "Колесо Ненормальных Троллинга",
+                    name: "Колесо Ненормального Троллинга",
                     app: "vue",
                     tag: "the-wheel",
                     categoryId: "TheWheelGame",
