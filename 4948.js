@@ -1342,9 +1342,9 @@
                     staticClass: "name"
                 }, [e._v(e._s(e.name))]), e._v(" "), i("p", {
                     staticClass: "date"
-                }, [i("span", [e._v("PLAYED ON")]), e._v(e._s(e.artifact.date))])]), e._v(" "), e.viewed || e.artifact.viewed ? e._e() : i("p", {
+                }, [i("span", [e._v("ИГРА БЫЛА")]), e._v(e._s(e.artifact.date))])]), e._v(" "), e.viewed || e.artifact.viewed ? e._e() : i("p", {
                     staticClass: "new"
-                }, [e._v("NEW")])]), e._v(" "), e.config && e.config.shopItems && e.config.shopItems.length ? i("div", {
+                }, [e._v("НОВОЕ")])]), e._v(" "), e.config && e.config.shopItems && e.config.shopItems.length ? i("div", {
                     staticClass: "items"
                 }, e._l(e.config.shopItems, (function(t) {
                     return i("div", {
