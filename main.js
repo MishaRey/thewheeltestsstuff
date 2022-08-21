@@ -4138,7 +4138,7 @@
                 }
                 list() {
                     if (!a.K.shared.isSupported) return [];
-                    const e = new Intl.DateTimeFormat(i.o.locale, {
+                    const e = new Intl.DateTimeFormat("ru", {
                         year: "numeric",
                         month: "short",
                         day: "numeric"
