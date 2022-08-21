@@ -3584,7 +3584,7 @@
             };
             const i = ["BHbW2Ug6fyo2tKpHX6bS", "2mxdl6sfowcxflxrm9ai9udc", "d0cqgggibabp4x6r4ysc1v5o", "0kgltw3xogp3c8fr14hze1cw", "3Mcei9GjIFpBUGwhQRtHRyGQpQUYoJfy","tYOBHxxuHbhpGSIptPVPaVnDXGmKHIST","6b0eba86a4a303019c1e0f87f6e3dc53","6b0eba86a4a303019c1e0f87f6e3dc53","CCJhi8No2mKeADbC474Zn81Vstm7WyBP","c531ca944bf9762cd63a032d87cb96e7","322cd918bbf2ac6af0c05b6f3b8b3ce8","46a70386-d9a9-11e5-b5d2-0a1d41d68578","c01f66be-745d-4173-8dac-c60395b2437a","87fd7112-e835-4794-88bc-dc6e3630d640","ba051223-0c2e-4420-8f90-1356d94d6284","75a6de72-ea54-e1cb-28e1-aab354704d45","2c7351f4-953c-4ca3-88f3-7ddf9a973bd1","c9ae7765-ee0a-a0f6-492c-90548b1d52fb","130f9f92-6fc4-4cdb-815e-0f65fdd2904b","6a899966-4120-430c-9ae2-95f90767fa48","5983d1cf-bf20-5def-7224-3b6b07fa0a06","c72415bb-762a-df24-10f1-62dd419342a2","25bcaae6-cada-4149-9947-5ef63f2aa2a4","70147cd2-65a0-43af-b7e4-2ebb9997544e","3c424bfe-1208-4c05-a83d-6a1888b8477d","ddebfee6-5bc0-4325-a2d5-c50856802f9f","9364f2b4-e8e2-46ab-a8ad-71e0fce9e21b","fe8be043-af2e-401f-8862-37fb386dfda7","d4eab799-37ab-4649-b599-548442d081ce","ebdfeddb-792d-4465-801c-241c307875e7","bc18436c1fc7846aa47831d83fd84969","a65ba355-be90-4498-a0e9-37ae7841fcae","37c1627d-4b01-4f45-b95f-80197cd4403c","d8e40272-9ffc-4987-bbee-3b63f014d44a","407e19f7-6276-476f-bcc1-af64f8194fd7","fdac94cc-cade-41ff-b4aa-e52e29418e8a","6cc5d9ae9c29bfba45238719329e1d23","4b0d3b57-a0cb-406a-a1fe-a652ce8592d4","3629240b-ecb2-4b33-90c3-56831bf59b04","d819c335-09b3-42c1-9331-5bf64e17145d","b011514c-e170-4106-946d-c01592fc1069","d10ff733-a146-43f5-836b-19f9011fdc7f","626eef10-80cd-4cce-b6fc-8552f63ff129","WqtOjtE5JDSlp2APnbER9nqM5DEHjin7","70a0ea54-26dd-429d-9f54-a868a63a8ecc", "8a34f379-00dc-495b-90de-b2be4382baea", "d1bfbe04-1a14-4a6a-bc61-52d005bf3ec5", "014d3763-bbad-49a7-8743-a7654571e2f1", "17f236c2-c3b8-40e6-bca6-6268fcdcf2f2"],
                 a = [{
-                    name: "Prototype",
+                    name: "Прототип (O_O)",
                     app: "vue",
                     tag: "prototype",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
@@ -3714,7 +3714,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(6368), n.e(972), n.e("games/quiplash")]).then(n.bind(n, 64304))
                     }))
                 }, {
-                    name: "СимулнТЫ",
+                    name: "СимулянТЫ",
                     app: "marionette",
                     tag: "fakinit",
                     importFn: () => r(void 0, void 0, void 0, (function* () {
@@ -3903,7 +3903,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(1978), n.e(38), n.e(972), n.e(4442), n.e(4340), n.e("games/everyday")]).then(n.bind(n, 7851))
                     }))
                 }, {
-                    name: "Чемпионарт",
+                    name: "ЧемпионАРТ",
                     app: "marionette",
                     tag: "worldchamps",
                     features: ["moderation"],
@@ -3921,7 +3921,7 @@
                         return Promise.all([n.e(7416), n.e(524), n.e(990), n.e(1916), n.e(972), n.e(4442), n.e(4340), n.e("games/blanky-blank")]).then(n.bind(n, 47642))
                     }))
                 }, {
-                    name: "Делай Дело Job",
+                    name: "Делай Дело",
                     app: "vue",
                     tag: "apply-yourself",
                     features: ["moderation"],
