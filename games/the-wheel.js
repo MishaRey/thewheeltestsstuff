@@ -1150,7 +1150,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "ПОДВЕРДИТЬ",
+                        "text-key": "ПУКНУТЬа",
                         disabled: !t.canSubmit,
                         theme: "submit"
                     },
@@ -3996,7 +3996,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "ПОДВЕРДИТЬ",
+                        "text-key": "ПУКНУТЬ",
                         disabled: !t.hasChanged,
                         theme: "submit"
                     },
@@ -6144,7 +6144,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "ПОДВЕРДИТЬ",
+                        "text-key": "ПУКНУТЬ",
                         disabled: t.isSending,
                         theme: "submit"
                     },
