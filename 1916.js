@@ -1,4 +1,3 @@
-/*! For license information please see 1916.5bfee64ba38ad80c6bb1.js.LICENSE.txt */
 (self.webpackChunkjackbox_tv = self.webpackChunkjackbox_tv || []).push([
     [1916], {
         31807: t => {
