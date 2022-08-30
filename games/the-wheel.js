@@ -869,7 +869,7 @@
                     },
                     SPIN: {
                         ANSWER_BANNER: "ВЫ ЗАБАНЕНЫ!",
-                        MAIN_BANNER: "КРУТИ КОЛЕСО!",
+                        MAIN_BANNER: "КРУТИ!",
                         RAINBOW_BANNER: "КРУТИ!",
                         WIN_BANNER: "КРУТИ!"
                     },
