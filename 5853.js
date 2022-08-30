@@ -8,22 +8,22 @@
             const o = {
                 en: {
                     ACTION: {
-                        BACK: "Back",
-                        CANCEL: "Cancel",
-                        CLOSE: "Close",
-                        CREATE: "Create",
-                        DELETE: "Delete",
-                        DONE: "Done",
-                        EDIT: "Edit",
-                        OK: "OK",
-                        NO: "No",
-                        PLAY: "Play",
+                        BACK: "Назад",
+                        CANCEL: "Адмяніць",
+                        CLOSE: "Закрыць",
+                        CREATE: "Стварыць",
+                        DELETE: "Выдаліць",
+                        DONE: "Гатоў",
+                        EDIT: "Адрэдагаваць",
+                        OK: "ТАК",
+                        NO: "Не",
+                        PLAY: "Гуляць",
                         PUBLISH: "Publish",
                         RESET: "Reset",
-                        SUBMIT: "Submit",
+                        SUBMIT: "Адправіць",
                         TRY_AGAIN: "Try Again",
                         UNDO: "Undo",
-                        YES: "Yes"
+                        YES: "Так"
                     },
                     ALT: {
                         UGC: {
@@ -35,26 +35,26 @@
                     },
                     ENTRY: {
                         PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-                        ROOM_CODE: "ROOM CODE",
-                        ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+                        ROOM_CODE: "КОД ПАКОЮ",
+                        ROOM_CODE_PLACEHOLDER: "ВВЕДІЦЕ 4-ЛІТАРНЫ КОД"
                     },
                     ERROR: {
-                        DISCONNECTED: "You have been disconnected.",
+                        DISCONNECTED: "Вы былі адключаны.",
                         DRAWING_NOTHING: "You have to draw something!",
                         PLAYER_KICKED: "You’ve been kicked.",
                         ROOM_DESTROYED: "Thanks for playing!",
-                        ROOM_DISCONNECTED: "Disconnected",
-                        ROOM_NOT_FOUND: "Room not found",
+                        ROOM_DISCONNECTED: "Адключан",
+                        ROOM_NOT_FOUND: "Пакой не знайдзен",
                         TEXT_NAUGHTY: "I’m afraid you can’t write that. Please be respectful of other players.",
                         TEXT_NOTHING: "You can’t enter nothing!",
-                        TITLE: "Error"
+                        TITLE: "ПАМЫЛКА"
                     },
                     LOBBY: {
-                        JOINED_COUNT: "x | {count} of {maxPlayers} players joined | {count} of {maxPlayers} players joined",
-                        PLAYERS_NEEDED: "x | {count} player needed to start | {count} players needed to start",
-                        WAITING_FOR_VIP: "Waiting for {name} to start the game",
-                        WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-                        GAME_STARTING: "Game is starting",
+                        JOINED_COUNT: "x | {count} з {maxPlayers} гульцоў далучылась | {count} з {maxPlayers} гульцоў далучылася",
+                        PLAYERS_NEEDED: "x | {count} гульцоў трэба каб пачаць | {count} гульцоў трэба каб пачаць",
+                        WAITING_FOR_VIP: "Качаем, калі {name} пачне гульню",
+                        WAITING_FOR_GAMEPAD: "Качаем, пакуль гульня пачнецца",
+                        GAME_STARTING: "Гульня пачынаецца",
                         BUTTON_START: "Press to Start",
                         BUTTON_CANCEL: "Press to Cancel"
                     },
@@ -65,16 +65,16 @@
                         BUTTON_NEW_PLAYERS: "New Players"
                     },
                     SEPARATOR: {
-                        AND: "AND",
-                        OR: "OR"
+                        AND: "І",
+                        OR: "ЦІ"
                     },
                     TUTORIAL: {
-                        BUTTON_SKIP: "Skip",
-                        BUTTON_NEXT: "Next",
-                        BUTTON_DONE: "Let’s Go!"
+                        BUTTON_SKIP: "Прапусціць",
+                        BUTTON_NEXT: "Наступны",
+                        BUTTON_DONE: "Пачаць!"
                     },
                     AUDIENCE: {
-                        NAME: "AUDIENCE"
+                        NAME: "ГЛЕДАЧЫ"
                     },
                     UGC: {
                         EPISODE_REPORT: "Report Episode",
