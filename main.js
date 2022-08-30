@@ -4602,7 +4602,7 @@
                         return this.htmlEscape(t).trim()
                     }
                     static sanitizeName(e) {
-                        return e.replace(/[^A-Z0-9\u00A1\u0020-\u002F\u00BF-\u00FF\u2026!?*$+\-'_ .,]/gi, "").replace(/'/g, "’")
+                        return e.replace(/[^A-Z0-9\u0400-\u04FF\u0456\u045E\u0406\u040E\u00A1\u0020-\u002F\u00BF-\u00FF\u2026!?*$+\-'_ .,]/gi, "").replace(/'/g, "’")
                     }
                     static sanitizeInput(e) {
                         return e.replace(/[^\u00A1\u0020-\u007E\u00BF-\u00FF’]/gi, "")
