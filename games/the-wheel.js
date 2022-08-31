@@ -869,7 +869,7 @@
                     },
                     SPIN: {
                         ANSWER_BANNER: "ВЫ ЗАБАНЕНЫ!",
-                        MAIN_BANNER: "КРУТИ!",
+                        MAIN_BANNER: "КРУТИ КОЛЕСО!",
                         RAINBOW_BANNER: "КРУТИ!",
                         WIN_BANNER: "КРУТИ!"
                     },
@@ -3049,7 +3049,7 @@
                 }), t._v(" "), n("GemButton", {
                     staticClass: "submit-button",
                     attrs: {
-                        "text-key": "ПУКНУТЬ",
+                        "text-key": "SEND",
                         disabled: !t.canSubmit,
                         theme: "submit"
                     },
@@ -3871,7 +3871,7 @@
                     selectedItems() {
                         var t, s, e, n;
                         const l = ["", ""];
-                        return this.selected[0] >= 0 && (l[0] = null !== (s = null === (t = this.items[0][this.selected[0]]) || void 0 === t ? void 0 : t.text) `& void 0 !== s ? s : ""), this.selected[1] >= 0 && (l[1] = null !== (n = null === (e = this.items[1][this.selected[1]]) || void 0 === e ? void 0 : e.text) && void 0 !== n ? n : ""), l
+                        return this.selected[0] >= 0 && (l[0] = null !== (s = null === (t = this.items[0][this.selected[0]]) || void 0 === t ? void 0 : t.text) && void 0 !== s ? s : ""), this.selected[1] >= 0 && (l[1] = null !== (n = null === (e = this.items[1][this.selected[1]]) || void 0 === e ? void 0 : e.text) && void 0 !== n ? n : ""), l
                     },
                     items() {
                         return [this.player.items[0].map(((t, s) => ({
